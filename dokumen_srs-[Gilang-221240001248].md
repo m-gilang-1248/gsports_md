@@ -97,6 +97,7 @@ erDiagram
     USERS ||--o{ BOOKINGS : membuat
     COURTS ||--o{ BOOKINGS : dipesan
     USERS ||--o{ COURTS : mengelola
+```
 
 ## 5. Alur Pengguna Utama
 
