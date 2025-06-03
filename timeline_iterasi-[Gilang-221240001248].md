@@ -7,8 +7,8 @@
 
 ## Pra-Iterasi: Persiapan & Setup Awal (Estimasi: 1 Minggu)
 *   **Total Tasks:** 5
-*   **Tasks Selesai:** `0`
-*   **Progress Iterasi:** `0%` 
+*   **Tasks Selesai:** `5`
+*   **Progress Iterasi:** `100%` 
     *   [X] Pahami SRS Lagi
     *   [X] Setup Lingkungan Flutter (SDK, Editor, Emulator/Device)
     *   [X] Setup Project Appwrite (Instalasi Lokal/Cloud, Buat Project)
@@ -137,5 +137,5 @@
 ## **PROGRESS MVP KESELURUHAN**
 
 *   **Total Task MVP:** 77
-*   **Tasks Selesai Saat Ini:** `0`
-*   **Persentase Progress Keseluruhan:** `0%`
+*   **Tasks Selesai Saat Ini:** `5`
+*   **Persentase Progress Keseluruhan:** `6,5%`
