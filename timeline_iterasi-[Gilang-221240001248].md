@@ -11,9 +11,9 @@
 *   **Progress Iterasi:** `0%` 
     *   [X] Pahami SRS Lagi
     *   [X] Setup Lingkungan Flutter (SDK, Editor, Emulator/Device)
-    *   [ ] Setup Project Appwrite (Instalasi Lokal/Cloud, Buat Project)
-    *   [ ] Buat Struktur Project Flutter Awal (Folders, Basic Files)
-    *   [ ] Integrasi Awal Flutter dengan Appwrite Client (Inisialisasi)
+    *   [X] Setup Project Appwrite (Instalasi Lokal/Cloud, Buat Project)
+    *   [X] Buat Struktur Project Flutter Awal (Folders, Basic Files)
+    *   [X] Integrasi Awal Flutter dengan Appwrite Client (Inisialisasi)
 
 ---
 
