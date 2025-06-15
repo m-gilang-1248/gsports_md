@@ -137,5 +137,5 @@
 ## **PROGRESS MVP KESELURUHAN**
 
 *   **Total Task MVP:** 77
-*   **Tasks Selesai Saat Ini:** `5`
-*   **Persentase Progress Keseluruhan:** `6,5%`
+*   **Tasks Selesai Saat Ini:** `13`
+*   **Persentase Progress Keseluruhan:** `16,8%`
