@@ -19,16 +19,16 @@
 
 ## Iterasi 1: Fondasi Pengguna (Estimasi: 2 Minggu)
 *   **Total Tasks:** 11
-*   **Tasks Selesai:** `0`
-*   **Progress Iterasi:** `0%`
-    *   [ ] UI: Desain & Implementasi Layar Registrasi (Nama, Email, Password, Konfirmasi Pass)
-    *   [ ] UI: Desain & Implementasi Layar Login (Email, Password)
-    *   [ ] UI: Desain & Implementasi Layar Home Sederhana (Placeholder)
-    *   [ ] Backend: Implementasi Fungsi Registrasi Pemain (Appwrite `account.create()`, set `prefs.role='player'`)
-    *   [ ] Backend: Implementasi Fungsi Login Pemain (Appwrite `account.createEmailSession()`, `account.get()`)
-    *   [ ] Backend: Implementasi Fungsi Logout (Appwrite `account.deleteSession('current')`)
-    *   [ ] Frontend: Implementasi Routing dasar (Navigasi antar layar)
-    *   [ ] Frontend: Proteksi Layar Home (Hanya bisa diakses setelah login)
+*   **Tasks Selesai:** `8`
+*   **Progress Iterasi:** `72%`
+    *   [X] UI: Desain & Implementasi Layar Registrasi (Nama, Email, Password, Konfirmasi Pass)
+    *   [X] UI: Desain & Implementasi Layar Login (Email, Password)
+    *   [X] UI: Desain & Implementasi Layar Home Sederhana (Placeholder)
+    *   [x] Backend: Implementasi Fungsi Registrasi Pemain (Appwrite `account.create()`, set `prefs.role='player'`)
+    *   [x] Backend: Implementasi Fungsi Login Pemain (Appwrite `account.createEmailSession()`, `account.get()`)
+    *   [x] Backend: Implementasi Fungsi Logout (Appwrite `account.deleteSession('current')`)
+    *   [x] Frontend: Implementasi Routing dasar (Navigasi antar layar)
+    *   [X] Frontend: Proteksi Layar Home (Hanya bisa diakses setelah login)
     *   [ ] Appwrite: Setup Collection `users` (jika belum ada) & Atribut dasar (nama, email, prefs.role)
     *   [ ] Appwrite: Atur Permissions dasar untuk Collection `users`
     *   [ ] Testing: Alur lengkap Registrasi, Login, dan Logout untuk peran 'player'
