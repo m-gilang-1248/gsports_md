@@ -19,8 +19,8 @@
 
 ## Iterasi 1: Fondasi Pengguna (Estimasi: 2 Minggu)
 *   **Total Tasks:** 11
-*   **Tasks Selesai:** `8`
-*   **Progress Iterasi:** `72%`
+*   **Tasks Selesai:** `11`
+*   **Progress Iterasi:** `100%`
     *   [X] UI: Desain & Implementasi Layar Registrasi (Nama, Email, Password, Konfirmasi Pass)
     *   [X] UI: Desain & Implementasi Layar Login (Email, Password)
     *   [X] UI: Desain & Implementasi Layar Home Sederhana (Placeholder)
@@ -29,9 +29,9 @@
     *   [x] Backend: Implementasi Fungsi Logout (Appwrite `account.deleteSession('current')`)
     *   [x] Frontend: Implementasi Routing dasar (Navigasi antar layar)
     *   [X] Frontend: Proteksi Layar Home (Hanya bisa diakses setelah login)
-    *   [ ] Appwrite: Setup Collection `users` (jika belum ada) & Atribut dasar (nama, email, prefs.role)
-    *   [ ] Appwrite: Atur Permissions dasar untuk Collection `users`
-    *   [ ] Testing: Alur lengkap Registrasi, Login, dan Logout untuk peran 'player'
+    *   [X] Appwrite: Setup Collection `users` (jika belum ada) & Atribut dasar (nama, email, prefs.role)
+    *   [X] Appwrite: Atur Permissions dasar untuk Collection `users`
+    *   [X] Testing: Alur lengkap Registrasi, Login, dan Logout untuk peran 'player'
 
 ---
 
@@ -137,5 +137,5 @@
 ## **PROGRESS MVP KESELURUHAN**
 
 *   **Total Task MVP:** 77
-*   **Tasks Selesai Saat Ini:** `13`
-*   **Persentase Progress Keseluruhan:** `16,8%`
+*   **Tasks Selesai Saat Ini:** `16`
+*   **Persentase Progress Keseluruhan:** `20,77%`
