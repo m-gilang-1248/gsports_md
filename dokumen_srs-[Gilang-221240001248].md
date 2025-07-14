@@ -3,7 +3,8 @@
 
 **Versi:** 1.1
 **Tanggal:** 14 Juli 2025 (Diperbarui)
-**Penyusun:** [M. Gilang M.W. Sabdokafi - 221240001248]
+**Penyusun:** 
+[M. Gilang M.W. Sabdokafi - 221240001248]
 [Arrayyan Rizqy Fawwaz - 221240001274]
 [Umi Nurul Latifah - 221240001226]
 ---
