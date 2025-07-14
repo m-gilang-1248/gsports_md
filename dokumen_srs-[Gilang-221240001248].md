@@ -2,9 +2,10 @@
 ## Aplikasi SaaS Pemesanan Lapangan Olahraga "Gsports" (MVP)
 
 **Versi:** 1.1
-**Tanggal:** 03 Juni 2025 (Diperbarui)
+**Tanggal:** 14 Juli 2025 (Diperbarui)
 **Penyusun:** [M. Gilang M.W. Sabdokafi - 221240001248]
-
+[Arrayyan Rizqy Fawwaz - 221240001274]
+[Umi Nurul Latifah - 221240001226]
 ---
 
 ## 1. Pendahuluan
